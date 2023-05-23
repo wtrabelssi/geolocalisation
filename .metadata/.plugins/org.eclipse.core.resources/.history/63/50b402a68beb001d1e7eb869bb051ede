@@ -1,0 +1,46 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@ page import="com.example.demo.model.Reclamations" %>
+    <%@ page import="java.util.List" %>
+    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+ <h1>Results</h1>
+<table>
+         <tr>
+            <th>Num_rec</th>
+            <th>Cin</th>
+            <th>Localisation</th>
+            <th>Photo</th>
+            <th>Etat</th>
+        </tr>
+   <% 
+  List<Reclamations> reclamations = (List<Reclamations>) request.getAttribute("reclamations");
+  if(reclamations != null && !reclamations.isEmpty()) {
+    for(Reclamations rec: reclamations) {
+  %>
+  <tr>
+    <td><%= rec.getNum_rec() %></td>
+    <td><%= rec.getCin() %></td>
+    <td><%= rec.getLocalisation() %></td>
+    <td><img src="<%= rec.getPhoto() %>" /></td>
+    <td><%= rec.getEtat() %></td>
+  </tr>
+  <% 
+    }
+  } else {
+  %>
+  <tr>
+    <td colspan="5">No reclamations found.</td>
+  </tr>
+  <% 
+  }
+  %>
+   </table>
+</body>
+</html>

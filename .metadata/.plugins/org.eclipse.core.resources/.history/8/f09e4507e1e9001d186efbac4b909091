@@ -1,0 +1,33 @@
+package com.example.demo.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.example.demo.model.Reclamations;
+import com.example.demo.repository.ReclamationsRepository;
+
+@Controller
+public class DataController {
+    
+    @Autowired
+    private ReclamationsRepository reclamationsRepository;
+
+    @RequestMapping("/")
+    public String indexPage() {
+        return "index";
+    }
+    
+    @PostMapping("/saveData")
+    public String saveData(String baladia, Model model) {
+        List<Reclamations> reclamations = reclamationsRepository.findByLocalisation(baladia);
+        model.addAttribute("reclamations", reclamations);
+        model.addAttribute("baladia", baladia);
+        return "reclamations";
+    }
+    
+}

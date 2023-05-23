@@ -1,0 +1,394 @@
+2023-05-03 12:35:50,840 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-03 12:39:14,419 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-03 12:39:15,148 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PfaGeo/src/main/java
+2023-05-03 12:39:15,149 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PfaGeo/src/main/resources
+2023-05-03 12:39:15,188 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PfaGeo/src/main/resources
+2023-05-03 12:39:15,191 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PfaGeo/src/test/java
+2023-05-03 12:39:16,454 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-05-03 12:39:16,457 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-03 12:39:16,628 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-03 12:39:17,057 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PfaGeo/src/main/java
+2023-05-03 12:39:17,057 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PfaGeo/src/main/resources
+2023-05-03 12:39:17,057 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PfaGeo/src/main/resources
+2023-05-03 12:39:17,058 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PfaGeo/src/test/java
+2023-05-03 12:39:17,590 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-03 12:39:18,099 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 12:39:18,114 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:39:18,117 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 12:42:37,530 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 12:42:37,536 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:42:37,539 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 12:44:10,631 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 12:44:10,637 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:44:10,641 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 12:45:03,751 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 12:45:03,755 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:45:03,759 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 12:45:46,806 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 12:45:46,812 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:45:46,815 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 12:58:59,108 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:58:59,108 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:58:59,111 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 12:59:26,613 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:59:26,613 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 12:59:26,615 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:01:17,327 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:01:17,332 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:01:17,336 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:02:55,753 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:02:55,760 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:02:55,763 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:04:15,470 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:04:15,481 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:04:15,485 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:05:24,376 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:05:24,381 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:05:24,384 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:05:33,909 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:05:33,915 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:05:33,918 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:05:57,448 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:05:57,452 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:05:57,477 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:06:20,744 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:06:20,753 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:06:20,755 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:06:37,599 [Worker-27: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:06:37,604 [Worker-27: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:06:37,606 [Worker-27: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:07:55,653 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:07:55,657 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:07:55,660 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:14:23,133 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-03 13:14:23,591 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:14:23,591 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:14:23,593 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:23:30,013 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 13:23:30,025 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:23:30,028 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 13:25:31,551 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:25:31,551 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 13:25:31,553 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 19:11:00,646 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-03 19:11:09,098 [Worker-11: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 19:11:09,112 [Worker-11: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:11:09,115 [Worker-11: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 19:12:28,209 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:12:28,209 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:12:28,212 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 19:25:45,750 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 19:25:45,758 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:25:45,761 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 19:26:20,255 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 19:26:20,262 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:26:20,306 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 19:30:15,371 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 19:30:15,377 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:30:15,379 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 19:33:41,881 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 19:33:41,886 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:33:41,889 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 19:36:38,186 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:36:38,187 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 19:36:38,189 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 20:09:29,721 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 20:09:29,727 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 20:09:29,729 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 20:20:54,554 [Worker-49: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 20:20:54,560 [Worker-49: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 20:20:54,565 [Worker-49: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-03 20:41:27,175 [Worker-54: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-03 20:41:27,181 [Worker-54: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-03 20:41:27,183 [Worker-54: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-04 22:29:01,111 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-04 23:53:18,782 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-04 23:53:24,867 [Worker-4: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-04 23:53:24,889 [Worker-4: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-04 23:53:24,895 [Worker-4: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:09:33,976 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-05 00:14:35,735 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-05 00:18:04,439 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-05 00:18:07,729 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:18:07,749 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:18:07,754 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:25:37,613 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:25:37,622 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:25:37,626 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:26:54,680 [Worker-16: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:26:54,684 [Worker-16: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:26:54,688 [Worker-16: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:27:12,078 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:27:12,080 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:27:12,083 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:27:34,621 [Worker-17: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:27:34,629 [Worker-17: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:27:34,632 [Worker-17: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:32:55,106 [Worker-25: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:32:55,112 [Worker-25: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:32:55,115 [Worker-25: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:44:52,853 [Worker-21: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:44:52,860 [Worker-21: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:44:52,863 [Worker-21: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:46:48,599 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:46:48,599 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:46:48,602 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:47:44,580 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:47:44,581 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:47:44,583 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:49:16,223 [Worker-30: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:49:16,231 [Worker-30: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:49:16,234 [Worker-30: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:50:27,716 [Worker-39: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:50:27,724 [Worker-39: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:50:27,727 [Worker-39: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:50:56,942 [Worker-40: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:50:56,947 [Worker-40: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:50:56,950 [Worker-40: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:52:41,681 [Worker-39: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:52:41,686 [Worker-39: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:52:41,689 [Worker-39: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:55:39,048 [Worker-47: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 00:55:39,055 [Worker-47: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:55:39,058 [Worker-47: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 00:57:08,512 [Worker-42: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:57:08,512 [Worker-42: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 00:57:08,515 [Worker-42: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:00:50,665 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-05 01:03:42,475 [Worker-11: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:03:42,493 [Worker-11: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:03:42,498 [Worker-11: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:04:37,100 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:04:37,101 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:04:37,104 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:05:21,619 [Worker-8: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:05:21,627 [Worker-8: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:05:21,631 [Worker-8: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:05:59,166 [Worker-4: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:05:59,173 [Worker-4: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:05:59,176 [Worker-4: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:06:36,930 [Worker-1: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:06:36,936 [Worker-1: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:06:36,940 [Worker-1: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:07:14,273 [Worker-12: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:07:14,278 [Worker-12: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:07:14,283 [Worker-12: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:10:45,846 [Worker-16: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:10:45,853 [Worker-16: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:10:45,856 [Worker-16: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:12:39,454 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:12:39,455 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:12:39,467 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:15:43,168 [Worker-21: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:15:43,175 [Worker-21: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:15:43,178 [Worker-21: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:24:53,464 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:24:53,475 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:24:53,487 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:27:55,323 [Worker-31: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:27:55,329 [Worker-31: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:27:55,333 [Worker-31: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:30:02,202 [Worker-27: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:30:02,208 [Worker-27: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:30:02,211 [Worker-27: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:37:19,067 [Worker-38: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:37:19,075 [Worker-38: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:37:19,078 [Worker-38: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:38:09,727 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:38:09,727 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:38:09,730 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:38:47,674 [Worker-32: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:38:47,674 [Worker-32: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:38:47,676 [Worker-32: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:50:59,631 [Worker-46: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:50:59,640 [Worker-46: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:50:59,646 [Worker-46: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:52:59,500 [Worker-47: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:52:59,501 [Worker-47: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:52:59,504 [Worker-47: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:55:01,733 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:55:01,733 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:55:01,736 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:58:54,871 [Worker-42: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 01:58:54,879 [Worker-42: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:58:54,881 [Worker-42: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 01:59:59,214 [Worker-53: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:59:59,215 [Worker-53: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 01:59:59,217 [Worker-53: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:05:28,787 [Worker-62: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:05:28,787 [Worker-62: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:05:28,789 [Worker-62: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:14:22,092 [Worker-67: Launching PfaGeo - PfaGeoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-05 02:14:22,909 [Worker-67: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 02:14:22,930 [Worker-67: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:14:22,934 [Worker-67: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:14:25,228 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2-sources.jar
+2023-05-05 02:14:26,237 [Worker-68: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2-sources.jar
+2023-05-05 02:14:26,241 [Worker-68: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2023-05-05 02:15:39,348 [Worker-70: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:15:39,348 [Worker-70: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:15:39,350 [Worker-70: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:15:59,282 [Worker-61: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:585)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:485)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:362)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:314)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<dependency>\n    \n\t\t<dependency>... @47:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<dependency>\n    \n\t\t<dependency>... @47:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1402)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-05-05 02:16:00,661 [Worker-66: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:585)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:485)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:362)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:314)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<dependency>\n    \n\t\t<dependency>... @47:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<dependency>\n    \n\t\t<dependency>... @47:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1402)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-05-05 02:17:03,564 [Worker-68: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-05 02:17:04,221 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 02:17:04,243 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:17:04,247 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:18:15,616 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-05 02:21:34,477 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-05 02:21:35,401 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 02:21:35,415 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:21:35,419 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:23:07,797 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-05 02:23:08,368 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:23:08,368 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:23:08,372 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:23:26,961 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-05 02:23:27,514 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 02:23:27,552 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:23:27,556 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:23:48,903 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:PfaGeo:0.0.1-SNAPSHOT @ C:\spring projects\PfaGeo\pom.xml.
+2023-05-05 02:23:49,607 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 02:23:49,661 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:23:49,665 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 02:37:17,306 [Worker-18: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:37:17,307 [Worker-18: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 02:37:17,310 [Worker-18: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 21:53:51,183 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-05 21:57:16,863 [Worker-8: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-05 21:57:16,883 [Worker-8: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 21:57:16,889 [Worker-8: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 22:00:15,719 [Worker-18: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:00:15,720 [Worker-18: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:00:15,723 [Worker-18: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 22:12:48,517 [Worker-15: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:12:48,517 [Worker-15: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:12:48,520 [Worker-15: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 22:15:25,155 [Worker-24: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:15:25,156 [Worker-24: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:15:25,157 [Worker-24: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 22:27:33,755 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:27:33,756 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:27:33,757 [Worker-33: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-05 22:41:58,034 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:41:58,035 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-05 22:41:58,038 [Worker-35: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-06 20:43:05,359 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-07 23:34:06,240 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-07 23:35:08,895 [Worker-6: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-07 23:35:08,910 [Worker-6: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:35:08,915 [Worker-6: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:35:30,523 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:35:30,523 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:35:30,526 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:37:28,027 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:37:28,027 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:37:28,029 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:38:23,573 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:38:23,573 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:38:23,576 [Worker-2: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:39:40,704 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:39:40,705 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:39:40,707 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:40:42,287 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:40:42,287 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:40:42,290 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:41:06,030 [Worker-14: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:41:06,031 [Worker-14: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:41:06,032 [Worker-14: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:42:08,259 [Worker-17: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:42:08,259 [Worker-17: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:42:08,262 [Worker-17: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:43:11,244 [Worker-19: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:43:11,245 [Worker-19: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:43:11,247 [Worker-19: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:43:58,864 [Worker-10: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:43:58,865 [Worker-10: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:43:58,866 [Worker-10: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:44:22,113 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:44:22,113 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:44:22,115 [Worker-5: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:54:02,565 [Worker-10: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:54:02,565 [Worker-10: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:54:02,568 [Worker-10: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources
+2023-05-07 23:54:51,625 [Worker-19: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:54:51,625 [Worker-19: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-07 23:54:51,627 [Worker-19: Launching PfaGeo - PfaGeoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\spring projects\PfaGeo\src\test\resources

@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+ <h1>Results</h1>
+<table>
+         <tr>
+            <th>Num_rec</th>
+            <th>Cin</th>
+            <th>Localisation</th>
+            <th>Photo</th>
+            <th>Etat</th>
+        </tr>
+        <c:forEach items="${reclamations}" var="rec">
+            <tr>
+                <td>${rec.num_rec}</td>
+                <td>${rec.cin}</td>
+                <td>${rec.localisation}</td>
+                <td><img src="${rec.photo}" /></td>
+                <td>${rec.etat}</td>
+            </tr>
+        </c:forEach>
+    </table>
+</body>
+</html>

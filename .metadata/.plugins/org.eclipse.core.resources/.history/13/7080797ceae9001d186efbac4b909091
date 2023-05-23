@@ -1,0 +1,22 @@
+package com.example.demo.controller;
+
+import java.util.Arrays;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.example.demo.model.Reclamations;
+import com.example.demo.repo.ReclamationsRepository;
+
+@Controller
+public class DataController {
+	@Autowired
+	private ReclamationsRepository reclamationsRepository;
+	  
+	@RequestMapping("/")
+	public String indexPage() {
+		
+		return"index";
+	}
+}
