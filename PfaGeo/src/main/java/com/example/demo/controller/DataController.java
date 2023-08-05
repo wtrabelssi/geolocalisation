@@ -17,7 +17,7 @@ import com.example.demo.repo.ReclamationsRepository;
 public class DataController {
 	@Autowired
 	private ReclamationsRepository reclamationsRepository;
-	List<String> knownBaladia = Arrays.asList("wissem", "tunis", "ariana");
+	List<String> knownBaladia = Arrays.asList("wissem", "tunis", "ariana","manouba");
 	@RequestMapping("/")
 	public String indexPage(Model model) {
 		model.addAttribute("reclamation", new Reclamations(0, 0, null, null, 0));
